@@ -1,7 +1,6 @@
 
 
 <h2>React Redux Testing Template using Jest and Enzyme</h2>
-<br/>
 <h5>The purpose of this project is to demonstrate how to properly implement a test first approch (TDD) to coding with react and redux.</h5>
 
 Within this project you will find examples of testing:

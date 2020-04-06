@@ -10,11 +10,10 @@ import ContextContainer from "./ContextAPI/ContextParent";
 function App() {
   return (
     <div>
-      
-      <Header/>
-     <ContextAPIExample/>
-     <ContextAPIUseEffect_Example/>
-     <ContextContainer/>
+
+      <Header />
+      <ContextAPIUseEffect_Example />
+      <ContextContainer />
     </div>
   );
 }
